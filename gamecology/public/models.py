@@ -3,8 +3,6 @@ from gamecology.database import (
     Column,
     db,
     Model,
-    ReferenceCol,
-    relationship,
     SurrogatePK,
 )
 
